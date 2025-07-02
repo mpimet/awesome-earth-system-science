@@ -55,9 +55,9 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## ⚙️ Workflows & Automation
 
-- [Snakemake](https://snakemake.readthedocs.io/en/stable/) – Reproducible workflows for bio/geo/science.
-- [Make for Scientists (by Software Carpentry)](https://swcarpentry.github.io/make-novice/) – Automation with Makefiles.
-- [GitHub Actions for Research Software](https://github.com/marketplace?type=actions) – Automate testing, CI/CD in GitHub.
+- [GitLab CI/CD](https://docs.gitlab.com/ci/) - Continuously build, test, deploy, and monitor iterative code changes on GitLab.
+- [GitHub Actions](https://docs.github.com/en/actions) - Automate, customize, and execute your software development workflows right in your GitHub repository.
+- [GitHub Actions for Research Software](https://github.com/marketplace?type=actions) – Marketplace for reusable GitHub Actions.
 
 ## 🤝 Project Management & Collaboration
 
