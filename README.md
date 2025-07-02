@@ -6,15 +6,15 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## 📁 Table of Contents
 
-- [Command Line & Shell](#command-line--shell)
-- [Version Control with Git](#version-control-with-git)
-- [Python for Earth Science](#python-for-earth-science)
-- [Scientific Computing](#scientific-computing)
-- [Reproducible Research](#reproducible-research)
-- [Data & File Formats](#data--file-formats)
-- [Jupyter & Notebooks](#jupyter--notebooks)
-- [Workflows & Automation](#workflows--automation)
-- [Project Management & Collaboration](#project-management--collaboration)
+- [Command Line & Shell](#-command-line--shell)
+- [Version Control with Git](#-version-control-with-git)
+- [Python for Earth Science](#-python-for-earth-science)
+- [Scientific Computing](#-scientific-computing)
+- [Reproducible Research](#-reproducible-research)
+- [Data & File Formats](#-data--file-formats)
+- [Jupyter & Notebooks](#-jupyter--notebooks)
+- [Workflows & Automation](#-workflows--automation)
+- [Project Management & Collaboration](#-project-management--collaboration)
 
 ## 🖥️ Command Line & Shell
 
