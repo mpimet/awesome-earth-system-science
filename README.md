@@ -50,8 +50,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## 📒 Jupyter & Notebooks
 
-- [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
-- [nbdev (by fast.ai)](https://nbdev.fast.ai/) – Develop Python packages in Jupyter notebooks.
+- [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/) - A highly extensible, feature-rich notebook authoring application and editing environment.
 - [Jupyter Book](https://jupyterbook.org/) – Create books and documentation from notebooks.
 
 ## ⚙️ Workflows & Automation
