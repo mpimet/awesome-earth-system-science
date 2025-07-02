@@ -39,9 +39,8 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## 📊 Reproducible Research
 
+- [DFG's Code of Conduct](https://zenodo.org/records/6472827) - Guidelines for Safeguarding Good Research Practice.
 - [The Turing Way](https://the-turing-way.netlify.app/) – A handbook for reproducible, ethical, and collaborative data science.
-- [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) – For writing maintainable and reproducible research code.
-- [Reproducible Research with R and RStudio](https://bookdown.org/rdpeng/RProgDA/) – Emphasizes literate programming principles.
 
 ## 📂 Data & File Formats
 
