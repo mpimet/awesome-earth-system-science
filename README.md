@@ -59,11 +59,9 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 - [GitHub Actions](https://docs.github.com/en/actions) - Automate, customize, and execute your software development workflows right in your GitHub repository.
 - [GitHub Actions for Research Software](https://github.com/marketplace?type=actions) – Marketplace for reusable GitHub Actions.
 
-## 🤝 Project Management & Collaboration
+## ⚖️ Licenses
 
-- [GitHub Project Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards) – Track and manage research tasks.
-- [Diátaxis Documentation Framework](https://diataxis.fr/) – Guide to writing effective documentation.
-- [Contributor Covenant](https://www.contributor-covenant.org/) – A code of conduct for open source projects.
+- [Choose a license](https://choosealicense.com) - Choose an open source license.
 
 ## 🧠 Contributing
 
