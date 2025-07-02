@@ -31,17 +31,11 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## 🐍 Python for Earth Science
 
-- [EarthPy (Earth Lab, CU Boulder)](https://earthpy.readthedocs.io/en/latest/) – Simplifies spatial and Earth science data analysis in Python.
+- [micromamba](https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html) - a fast, robust, and cross-platform package manager.
 - [Pangeo Project](https://pangeo.io/) – A community and platform for Big Data in the geosciences using Python tools.
 - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) – Intro to Python for geoscientists, developed at the University of Helsinki.
-- [Introduction to Python for Earth Scientists](https://mygeohub.org/resources/1256/download/Python-for-Earth-Scientists.pdf) – A concise guide and workbook.
-
-## 🧮 Scientific Computing
-
-- [Scientific Python Ecosystem](https://scipy.org/) – Core libraries: NumPy, SciPy, Matplotlib, pandas.
 - [xarray](https://docs.xarray.dev/en/stable/) – N-D labeled arrays for working with netCDF and gridded data.
-- [Dask](https://www.dask.org/) – Parallel computing with Python.
-- [Jupyter Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) – Interactive tutorials for numerical work.
+- [easy.gems](http://easy.gems.dkrz.de/) - A user-driven site for documenting high-resolution climate simulation output and its increasingly challenging analysis.
 
 ## 📊 Reproducible Research
 
