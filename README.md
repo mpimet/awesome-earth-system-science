@@ -36,7 +36,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) – Intro to Python for geoscientists, developed at the University of Helsinki.
 - [xarray](https://docs.xarray.dev/en/stable/) – N-D labeled arrays for working with netCDF and gridded data.
 - [easy.gems](http://easy.gems.dkrz.de/) - A user-driven site for documenting high-resolution climate simulation output and its increasingly challenging analysis.
-- [parallel python](https://www.machinelearningplus.com/python/parallel-processing-python/) - A short and simple guide for parallelizing python code.
+- [Parallel Processing in Python](https://www.machinelearningplus.com/python/parallel-processing-python/) - A short and simple guide for parallelizing python code.
 
 ## 📊 Reproducible Research
 
