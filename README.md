@@ -46,7 +46,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 ## 📂 Data & File Formats
 
 - [CF Conventions](http://cfconventions.org/) – Standardized metadata for climate and forecast datasets.
-- [NetCDF in Python with xarray](https://tutorial.xarray.dev/) – Work with NetCDF using xarray and Dask.
+- [Xarray Tutorial](https://tutorial.xarray.dev/) – easy-to-run tutorial notebooks for Xarray.
 - [Zarr](https://zarr.dev) - specifications and software for storage of large N-dimensional typed arrays, also commonly known as tensors.
 
 ## 📒 Jupyter & Notebooks
